@@ -1,0 +1,589 @@
+# depslib dependency file v1.0
+1589746526 source:c:\users\jilian\onedrive\projetc\allegro\qwirkle\ia.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	"ia.h"
+	"qwirkle.h"
+
+1589746523 source:c:\users\jilian\onedrive\projetc\allegro\qwirkle\jeu.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	"jeu.h"
+	"qwirkle.h"
+
+1589746430 source:c:\users\jilian\onedrive\projetc\allegro\qwirkle\qwirkle.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	"qwirkle.h"
+
+1372628331 c:\allegro\include\\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1372628331 c:\allegro\include\\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1372628331 c:\allegro\include\\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1372629528 c:\allegro\include\\allegro5\platform\alplatf.h
+
+1368969907 c:\allegro\include\\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1368969907 c:\allegro\include\\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1368969907 c:\allegro\include\\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1368969907 c:\allegro\include\\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1362331100 c:\allegro\include\\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1368969907 c:\allegro\include\\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1368969907 c:\allegro\include\\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1362331100 c:\allegro\include\\allegro5\platform\alunix.h
+
+1362331100 c:\allegro\include\\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1362331100 c:\allegro\include\\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1362331100 c:\allegro\include\\allegro5\altime.h
+	"allegro5/base.h"
+
+1372628331 c:\allegro\include\\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1372628331 c:\allegro\include\\allegro5\color.h
+	"allegro5/base.h"
+
+1362331100 c:\allegro\include\\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1372628331 c:\allegro\include\\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1362331100 c:\allegro\include\\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1362331100 c:\allegro\include\\allegro5\path.h
+	"allegro5/base.h"
+
+1362331100 c:\allegro\include\\allegro5\utf8.h
+	"allegro5/base.h"
+
+1362331100 c:\allegro\include\\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1372628283 c:\allegro\include\\allegro5\blender.h
+
+1372628331 c:\allegro\include\\allegro5\config.h
+	"allegro5/file.h"
+
+1372628331 c:\allegro\include\\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1372628331 c:\allegro\include\\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1372628331 c:\allegro\include\\allegro5\events.h
+	"allegro5/altime.h"
+
+1372628331 c:\allegro\include\\allegro5\drawing.h
+	"allegro5/color.h"
+
+1362331100 c:\allegro\include\\allegro5\error.h
+	"allegro5/base.h"
+
+1362331100 c:\allegro\include\\allegro5\fixed.h
+	"allegro5/base.h"
+
+1362331100 c:\allegro\include\\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1368969907 c:\allegro\include\\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1362331100 c:\allegro\include\\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1362331100 c:\allegro\include\\allegro5\fullscreen_mode.h
+
+1372628331 c:\allegro\include\\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1362331100 c:\allegro\include\\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1372628331 c:\allegro\include\\allegro5\keycodes.h
+
+1362331100 c:\allegro\include\\allegro5\memory.h
+
+1362331100 c:\allegro\include\\allegro5\monitor.h
+
+1362331100 c:\allegro\include\\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1362331100 c:\allegro\include\\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1362331100 c:\allegro\include\\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1362331100 c:\allegro\include\\allegro5\threads.h
+	"allegro5/altime.h"
+
+1362331100 c:\allegro\include\\allegro5\timer.h
+	"allegro5/base.h"
+
+1362331100 c:\allegro\include\\allegro5\tls.h
+	"allegro5/base.h"
+
+1372628331 c:\allegro\include\\allegro5\transformations.h
+	"allegro5/display.h"
+
+1372628331 c:\allegro\include\\allegro5\alcompat.h
+
+1372628331 c:\allegro\include\\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1362331099 c:\allegro\include\\allegro5\allegro_image.h
+
+1589745496 c:\users\jilian\onedrive\projetc\allegro\qwirkle\qwirkle.h
+
+1589748142 source:c:\users\jilian\onedrive\projetc\allegro\qwirkle\boutons.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	"boutons.h"
+	"qwirkle.h"
+
+1589746837 c:\users\jilian\onedrive\projetc\allegro\qwirkle\boutons.h
+
+1589746850 c:\users\jilian\onedrive\projetc\allegro\qwirkle\ia.h
+
+1589746858 c:\users\jilian\onedrive\projetc\allegro\qwirkle\jeu.h
+
+1589747504 source:c:\users\jilian\onedrive\projetc\allegro\qwirkle\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	"qwirkle.h"
+	"boutons.h"
+	"ia.h"
+	"jeu.h"
+
+1591530483 source:d:\bureau\qwirkle\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+	"jeu.h"
+
+1591529639 d:\bureau\qwirkle\qwirkle.h
+
+1589746850 d:\bureau\qwirkle\ia.h
+
+1589746858 d:\bureau\qwirkle\jeu.h
+
+1255703326 d:\bureau\qwirkle\pile.h
+
+1591639274 source:c:\users\jilian\onedrive\projetc\qwirklev3\qwirkle\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+	"jeu.h"
+
+1591547766 c:\users\jilian\onedrive\projetc\qwirklev3\qwirkle\qwirkle.h
+
+1589750450 c:\users\jilian\onedrive\projetc\qwirklev3\qwirkle\ia.h
+
+1589750458 c:\users\jilian\onedrive\projetc\qwirklev3\qwirkle\jeu.h
+
+1591646117 source:d:\bureau\qwirklev3\qwirkle\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+	"jeu.h"
+
+1591645982 d:\bureau\qwirklev3\qwirkle\qwirkle.h
+
+1589746850 d:\bureau\qwirklev3\qwirkle\ia.h
+
+1589746858 d:\bureau\qwirklev3\qwirkle\jeu.h
+
+1591740943 source:d:\bureau\qwirklev4\qwirkle\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+	"jeu.h"
+
+1591738839 d:\bureau\qwirklev4\qwirkle\qwirkle.h
+
+1589746850 d:\bureau\qwirklev4\qwirkle\ia.h
+
+1589746858 d:\bureau\qwirklev4\qwirkle\jeu.h
+
+1591736184 source:c:\users\nino\desktop\projet info\qwirklev4\qwirkle\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+	"jeu.h"
+
+1591736253 c:\users\nino\desktop\projet info\qwirklev4\qwirkle\qwirkle.h
+
+1589746850 c:\users\nino\desktop\projet info\qwirklev4\qwirkle\ia.h
+
+1589746858 c:\users\nino\desktop\projet info\qwirklev4\qwirkle\jeu.h
+
+1591877043 source:d:\bureau\qwirkleavant\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ia.h"
+	"jeu.h"
+
+1591877128 d:\bureau\qwirkleavant\qwirkle.h
+
+1589746850 d:\bureau\qwirkleavant\ia.h
+
+1589746858 d:\bureau\qwirkleavant\jeu.h
+
+1592071605 source:d:\bureau\qwirklemoi\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ia.h"
+	"jeu.h"
+
+1592055936 d:\bureau\qwirklemoi\qwirkle.h
+
+1589746850 d:\bureau\qwirklemoi\ia.h
+
+1589746858 d:\bureau\qwirklemoi\jeu.h
+
+1591994512 source:c:\users\jilian\onedrive\projetc\allegro\qwirklemoi\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ia.h"
+	"jeu.h"
+
+1591890378 c:\users\jilian\onedrive\projetc\allegro\qwirklemoi\qwirkle.h
+
+1589750450 c:\users\jilian\onedrive\projetc\allegro\qwirklemoi\ia.h
+
+1589750458 c:\users\jilian\onedrive\projetc\allegro\qwirklemoi\jeu.h
+
+1592102790 source:c:\users\nino\desktop\projet info2\qwirklev6.5\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ia.h"
+	"jeu.h"
+
+1592100750 c:\users\nino\desktop\projet info2\qwirklev6.5\qwirkle.h
+
+1589746850 c:\users\nino\desktop\projet info2\qwirklev6.5\ia.h
+
+1589746858 c:\users\nino\desktop\projet info2\qwirklev6.5\jeu.h
+
+1592102790 source:c:\users\nino\desktop\projet info2\qwirklev6.6\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ia.h"
+	"jeu.h"
+
+1592100750 c:\users\nino\desktop\projet info2\qwirklev6.6\qwirkle.h
+
+1589746850 c:\users\nino\desktop\projet info2\qwirklev6.6\ia.h
+
+1589746858 c:\users\nino\desktop\projet info2\qwirklev6.6\jeu.h
+
+1592102790 source:d:\bureau\qwirklev6.6\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ia.h"
+	"jeu.h"
+
+1592100750 d:\bureau\qwirklev6.6\qwirkle.h
+
+1589746850 d:\bureau\qwirklev6.6\ia.h
+
+1589746858 d:\bureau\qwirklev6.6\jeu.h
+
+1592133160 source:d:\bureau\qwirklenino\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ia.h"
+	"jeu.h"
+
+1592128722 d:\bureau\qwirklenino\qwirkle.h
+
+1589746850 d:\bureau\qwirklenino\ia.h
+
+1589746858 d:\bureau\qwirklenino\jeu.h
+
+1592134812 source:d:\bureau\qwirklev7\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ia.h"
+	"jeu.h"
+
+1592135950 d:\bureau\qwirklev7\qwirkle.h
+
+1589746850 d:\bureau\qwirklev7\ia.h
+
+1589746858 d:\bureau\qwirklev7\jeu.h
+
+1592138090 source:d:\bureau\qwirklev7.3\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ia.h"
+	"jeu.h"
+
+1592138098 d:\bureau\qwirklev7.3\qwirkle.h
+
+1589746850 d:\bureau\qwirklev7.3\ia.h
+
+1589746858 d:\bureau\qwirklev7.3\jeu.h
+
+1592152314 source:d:\bureau\qwirklev7.8\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ia.h"
+	"jeu.h"
+
+1362331099 c:\allegro\include\\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1372628331 c:\allegro\include\\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1592151556 d:\bureau\qwirklev7.8\qwirkle.h
+
+1589746850 d:\bureau\qwirklev7.8\ia.h
+
+1589746858 d:\bureau\qwirklev7.8\jeu.h
+
+1592170908 source:d:\bureau\qwirklev8\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<time.h>
+	<math.h>
+	"qwirkle.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ia.h"
+	"jeu.h"
+
+1592169194 d:\bureau\qwirklev8\qwirkle.h
+
+1589746850 d:\bureau\qwirklev8\ia.h
+
+1589746858 d:\bureau\qwirklev8\jeu.h
+
